@@ -1,0 +1,6 @@
+#N canvas 680 142 450 300 12;
+#X obj 115 199 outlet~;
+#X obj 113 110 r \$1;
+#X obj 115 151 one_samp \$2 \$3;
+#X connect 1 0 2 0;
+#X connect 2 0 0 0;
