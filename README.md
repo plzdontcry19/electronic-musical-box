@@ -9,8 +9,11 @@ This project is called “**Electronic Musical Box**” it is coded in Pure Data
 - Naraphat Sanujit - software developer
 - Boy Dasri - hardware developer
 
+**video**
+https://www.youtube.com/watch?v=bfX7xHXtXdI&feature=youtu.be
 
 <img src="/picture/project-pic.JPG" alt="thesis" width="500">
 <img src="/picture/back-view.jpg" alt="thesis" width="500">
 <img src="/picture/bottom-circuit.jpg" alt="thesis" width="500">
 <img src="/picture/top-circuit.jpg" alt="thesis" width="500">
+
