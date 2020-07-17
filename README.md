@@ -10,4 +10,7 @@ This project is called “**Electronic Musical Box**” it is coded in Pure Data
 - Boy Dasri - hardware developer
 
 
-<img src="/project-pic.JPG" alt="thesis" width="800">
+<img src="/project-pic.JPG" alt="thesis" width="500">
+<img src="/back-view.JPG" alt="thesis" width="500">
+<img src="/bottom-circuit.JPG" alt="thesis" width="500">
+<img src="/top-circuit.JPG" alt="thesis" width="500">
