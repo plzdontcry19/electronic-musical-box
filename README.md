@@ -11,6 +11,7 @@ This project is called “**Electronic Musical Box**” it is coded in Pure Data
 
 **video**
 https://www.youtube.com/watch?v=bfX7xHXtXdI&feature=youtu.be
+https://youtu.be/VczBrq8gNLs
 
 <img src="/picture/project-pic.JPG" alt="thesis" width="500">
 <img src="/picture/back-view.jpg" alt="thesis" width="500">
