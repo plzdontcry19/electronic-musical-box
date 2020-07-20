@@ -10,6 +10,7 @@ This project is called “**Electronic Musical Box**” it is coded in Pure Data
 - Boy Dasri - hardware developer
 
 **video**
+<br /> 
 <a href="https://www.youtube.com/watch?v=bfX7xHXtXdI&feature=youtu.be">example song</a><br /> 
 <a href="https://youtu.be/VczBrq8gNLs">Electronic Musical Box manual</a>
 
